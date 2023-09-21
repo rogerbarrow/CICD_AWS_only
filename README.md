@@ -20,6 +20,8 @@ In this step, we'll create an AWS CodePipeline to automate the continuous integr
 ![image](https://github.com/rogerbarrow/CICD_AWS_only/assets/46138186/56da6e55-5fd4-4cc3-b28f-7f2af2dc7b0f)
 ![image](https://github.com/rogerbarrow/CICD_AWS_only/assets/46138186/90053d5c-6e16-408d-a2f0-60c5c74e6652)
 ![image](https://github.com/rogerbarrow/CICD_AWS_only/assets/46138186/e4ee04e8-e75b-4f31-ab50-0e7084a08f81)
+![image](https://github.com/rogerbarrow/CICD_AWS_only/assets/46138186/27a45ee4-f3d4-454a-a583-58375f14098f)
+
 ![image](https://github.com/rogerbarrow/CICD_AWS_only/assets/46138186/d1f45ced-1921-4ab0-9850-500c3d2e8eb0)
 
 
